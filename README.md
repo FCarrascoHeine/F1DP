@@ -1,0 +1,1 @@
+This code was created by Charles Thraves and Oscar F. Carrasco Heine, in the context of their publication "On the optimization of pit stop strategies via dynamic programming" (https://doi.org/10.1007/s10100-022-00806-4)
